@@ -7,5 +7,5 @@
 	"developers": [ "user95401" ],
 	"description": "Guschin PS here",
 	"early-load": true,
-	"resources": { "files": [ "Resources/*" ] }
+	"resources": { "files": [ "pack.zip" ] }
 }
