@@ -1,0 +1,11 @@
+{
+	"geode": "2.0.0-beta.24",
+	"gd": "*",
+	"version": "v1.0.0",
+	"id": "user95401.guschin_ps",
+	"name": "Guschin PS",
+	"developers": [ "user95401" ],
+	"description": "Guschin PS here",
+	"early-load": true,
+	"resources": { "files": [ "Resources/*" ] }
+}
